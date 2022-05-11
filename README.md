@@ -1,4 +1,12 @@
-### Hi there 👋
+### Namaste, I am Sabin Ghimire from Nepal! 👋
+- 🔭 I’m currently working as Flutter Developer
+- 📫 How to reach me: <a href="mailto:sabin.ghimire1827@gmail.com" target="blank"><span>sabin.ghimire1827@gmail.com</span></a>
+
+
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/Saw2110/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/facebook.png" alt="saw2110" height="38" width="40" /></a>
+</p> -->
 
 <!--
 **Saw2110/Saw2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
