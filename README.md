@@ -3,6 +3,7 @@
 - 📫 How to reach me: <a href="mailto:sabin.ghimire1827@gmail.com" target="blank"><span>sabin.ghimire1827@gmail.com</span></a>
 - ✨ I'm learning Flutter, Web scrapping etc.
 - 📫 Live <a href="https://saw2110.github.io/Portfolio/" target="blank"><span>Portfolio</span></a>
+- 📫 Live <a href="https://drive.google.com/file/d/1WdaY4Pe4so_4PZDqIK1T7xgyJKQJ72ub/view?usp=sharing" target="blank"><span>Resume</span></a>
 
 
 <h3 align="left">Connect with me:</h3>
