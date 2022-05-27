@@ -23,6 +23,12 @@
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/postman.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/postman.png" alt="saw2110" height="38" width="40" /></a>
 </p>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deep5050&show_icons=true" alt="deep5050" /> </p>
+
+<p align=left>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=saw2110" alt="Visitors">                     
+</p>
+
 <!--
 **Saw2110/Saw2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
