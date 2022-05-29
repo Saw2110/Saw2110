@@ -1,7 +1,11 @@
-### Namaste, I am Sabin Ghimire from Nepal! 👋
+<h1 align="center">Namaste 🙏🙏,Sabin Ghimire.</h1>
+
+I'm a Mobile engineer. Currently working as a Mobile App Developer at [Easy Software](https://easysoftware.com.np/)
+
 - 🔭 I’m currently working as Flutter Developer
 - 📫 How to reach me: <a href="mailto:sabin.ghimire1827@gmail.com" target="blank"><span>sabin.ghimire1827@gmail.com</span></a>
 - ✨ I'm learning Flutter, Web scrapping etc.
+- 💬 Ask me about Flutter, Dart.
 - 📫 <a href="https://saw2110.github.io/Portfolio/" target="blank"><span>Portfolio</span></a>
 - 📫 <a href="https://drive.google.com/file/d/1WdaY4Pe4so_4PZDqIK1T7xgyJKQJ72ub/view?usp=sharing" target="blank"><span>Resume</span></a>
 
@@ -21,6 +25,7 @@
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/github.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/github.png" alt="saw2110" height="38" width="40" /></a>
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/firebase.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/firebase.png" alt="saw2110" height="38" width="40" /></a>
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/postman.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/postman.png" alt="saw2110" height="38" width="40" /></a>
+<a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/sqlite.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/sqlite.png" alt="saw2110" height="38" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Saw2110&show_icons=true" alt="deep5050" /> </p>
