@@ -1,7 +1,7 @@
-<h1 align="center">Namaste 🙏🙏,Sabin Ghimire.</h1>
+<h1 align="center">Namaste 🙏🙏,I am Sabin Ghimire from Nepal.</h1>
 
-I'm a Mobile engineer. Currently working as a Mobile App Developer at [Easy Software](https://easysoftware.com.np/)
-
+<h3 align="center"> Currently working as a Mobile App Developer at [Easy Software](https://easysoftware.com.np/).</h3>
+ 
 - 🔭 I’m currently working as Flutter Developer
 - 📫 How to reach me: <a href="mailto:sabin.ghimire1827@gmail.com" target="blank"><span>sabin.ghimire1827@gmail.com</span></a>
 - ✨ I'm learning Flutter, Web scrapping etc.
