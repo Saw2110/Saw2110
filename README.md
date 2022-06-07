@@ -24,10 +24,13 @@
 <p align="left">
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/flutter.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/flutter.png" alt="saw2110" height="38" width="40" /></a>
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/dart.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/dart.png" alt="saw2110" height="38" width="40" /></a>
-<a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/github.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/github.png" alt="saw2110" height="38" width="40" /></a>
+<a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/git.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/git.png" alt="saw2110" height="38" width="40" /></a>
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/firebase.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/firebase.png" alt="saw2110" height="38" width="40" /></a>
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/postman.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/postman.png" alt="saw2110" height="38" width="40" /></a>
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/sqlite.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/sqlite.png" alt="saw2110" height="38" width="40" /></a>
+<a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/html.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/html.png" alt="saw2110" height="38" width="40" /></a>
+<a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/css.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/css.png" alt="saw2110" height="38" width="40" /></a>
+<a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/figma.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/figma.png" alt="saw2110" height="38" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Saw2110&show_icons=true" alt="deep5050" /> </p>
