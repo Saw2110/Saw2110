@@ -7,7 +7,7 @@
 - 📫 How to reach me: <a href="mailto:sabin.ghimire1827@gmail.com" target="blank"><span>sabin.ghimire1827@gmail.com</span></a>
 - ✨ I'm learning Flutter, Web scrapping etc.
 - 💬 Ask me about Flutter, Dart.
-- 🔗 <a href="https://saw2110.github.io/Portfolio/" target="blank"><span>Portfolio</span></a>
+- 🔗 <a href="https://ghimiresabin.com.np/" target="blank"><span>Portfolio</span></a>
 - 🔗 <a href="https://drive.google.com/file/d/1WdaY4Pe4so_4PZDqIK1T7xgyJKQJ72ub/view?usp=sharing" target="blank"><span>Resume</span></a>
 - 🔗 [Profile Card](https://saw2110.github.io/ProfileCard/)
 
