@@ -1,6 +1,6 @@
 <h1 align="center">Namaste 🙏🙏,I am Sabin Ghimire from Nepal.</h1>
 
-<h3 align="center"> Currently working as a Mobile App Developer at <a href="https://easysoftware.com.np/" target="blank"><span>Easy Software</span></a>.</h3>
+<h3 align="center"> Currently working as a Mobile App Developer at <a href="https://eydean.com//" target="blank"><span>Eydean</span></a>.</h3>
 
  
 - 🔭 I’m currently working as Flutter Developer
