@@ -1,10 +1,10 @@
-<h1 align="center">Namaste 🙏🙏,I am Sabin Ghimire from Nepal.</h1>
+<h1 align="center">Namaste 🙏🙏,I am Sabin Ghimire.</h1>
 
-<h3 align="center"> Currently working as a Mobile App Developer at <a href="https://eydean.com//" target="blank"><span>Eydean</span></a>.</h3>
+<h3 align="center"> Currently working as a Mobile App Developer</h3>
 
  
 - 🔭 I’m currently working as Flutter Developer
-- 📫 How to reach me: <a href="mailto:sabin.ghimire1827@gmail.com" target="blank"><span>sabin.ghimire1827@gmail.com</span></a>
+- 📫 How to reach me: <a href="mailto:work.sabinghimire@gmail.com" target="blank"><span>work.sabinghimire@gmail.com</span></a>
 - ✨ I'm learning Flutter, Web scrapping etc.
 - 💬 Ask me about Flutter, Dart.
 - 🔗 <a href="https://ghimiresabin.com.np/" target="blank"><span>Portfolio</span></a>
