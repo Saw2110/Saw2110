@@ -1,14 +1,11 @@
 <h1 align="center">Namaste 🙏🙏,I am Sabin Ghimire.</h1>
 
-<h3 align="center"> Currently working as a Mobile App Developer</h3>
+<h3 align="center"> A Flutter Developer </h3>
 
- 
-- 🔭 I’m currently working as Flutter Developer
 - 📫 How to reach me: <a href="mailto:work.sabinghimire@gmail.com" target="blank"><span>work.sabinghimire@gmail.com</span></a>
-- ✨ I'm learning Flutter, Web scrapping etc.
-- 💬 Ask me about Flutter, Dart.
+
 - 🔗 <a href="https://ghimiresabin.com.np/" target="blank"><span>Portfolio</span></a>
-- 🔗 <a href="https://drive.google.com/file/d/1WdaY4Pe4so_4PZDqIK1T7xgyJKQJ72ub/view?usp=sharing" target="blank"><span>Resume</span></a>
+- 🔗 <a href="https://drive.google.com/file/d/1RGFG5zoC547-yIr50Y4M-Vc1H1LZFOKq/view?usp=sharing" target="blank"><span>Resume</span></a>
 - 🔗 [Profile Card](https://saw2110.github.io/ProfileCard/)
 
 
@@ -32,24 +29,6 @@
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/css.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/css.png" alt="saw2110" height="38" width="40" /></a>
 <a href="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/figma.png" target="blank"><img align="center" src="https://raw.githubusercontent.com/Saw2110/Saw2110/main/assets/figma.png" alt="saw2110" height="38" width="40" /></a>
 </p>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Saw2110&show_icons=true" alt="deep5050" /> </p>
-
 <p align=left>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=saw2110" alt="Visitors">                     
 </p>
-
-<!--
-**Saw2110/Saw2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
